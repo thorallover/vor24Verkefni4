@@ -28,13 +28,14 @@ Miðja  Vinstri  Hægri
 tempor  et  fugiat
 
 Eiusmod tempor et fugiat
-
+```
 pie showData
     title Key elements in Product X
     "Calcium" : 42.96
     "Potassium" : 50.05
     "Magnesium" : 10.01
     "Iron" :  5
+```
 HÉR Á MERMAID KÖKURITIÐ AÐ KOMA
 pie title Pets adopted by volunteers
     "Dogs" : 386
