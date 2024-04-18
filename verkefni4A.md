@@ -26,10 +26,7 @@ Ad esse sit nostrud est sit sunt
 | Vinstri | Miðja | Hægri |
 |---------|-------|-------|
 |    34   |  12   | 56    |
-|         |       |       |
-Miðja  Vinstri  Hægri
-12  34  56
-tempor  et  fugiat
+| tempor  | et    |figuiat|
 
 Eiusmod tempor et fugiat
 
