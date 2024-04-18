@@ -23,19 +23,23 @@ Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatu
 
 Ad esse sit nostrud est sit sunt
 
+| Vinstri | Miðja | Hægri |
+|---------|-------|-------|
+|    34   |  12   | 56    |
+|         |       |       |
 Miðja  Vinstri  Hægri
 12  34  56
 tempor  et  fugiat
 
 Eiusmod tempor et fugiat
-```
+
 pie showData
     title Key elements in Product X
     "Calcium" : 42.96
     "Potassium" : 50.05
     "Magnesium" : 10.01
     "Iron" :  5
-```
+
 HÉR Á MERMAID KÖKURITIÐ AÐ KOMA
 pie title Pets adopted by volunteers
     "Dogs" : 386
