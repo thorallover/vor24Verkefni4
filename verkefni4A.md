@@ -32,13 +32,12 @@ Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatu
 
 
 HÉR Á MERMAID KÖKURITIÐ AÐ KOMA
-```
-    mermaid
+```mermaid
 pie
-    title Pets adopted by volunteers
-    "Dogs" : 386
-    "Cats" : 85
-    "Rats" : 15
+    title Kökurit
+    "Miðja" : 12
+    "Vinstri" : 34
+    "Hægri" : 56
 ```
 
 Dolore ut velit
